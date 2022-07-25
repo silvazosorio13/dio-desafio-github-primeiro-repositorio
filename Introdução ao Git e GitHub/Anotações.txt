@@ -1,0 +1,1 @@
+O GitBash é um console a um terminal extendido para otimizar o uso do Git.
